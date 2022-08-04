@@ -1,7 +1,5 @@
 <h1 align='center'> LUAN BRUNO DOMINGUES DE OLIVEIRA 💻 </h1>
 
-<h2 align='center'> PERSONAL README </h2>
-
 ---------------------------------------
 
 <img align='right' src="https://github.com/LuanB-compt/README/blob/main/Imagens/Imagem.jpg" width="230">
