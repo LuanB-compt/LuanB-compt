@@ -15,7 +15,7 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 
 ---------------------------------
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My knowledge...  
+### <img src="https://c.tenor.com/i_K3zWsgcG8AAAAj/hacker-pepe.gif" width="40"> My knowledge...  
 
 ```python
 luan = {
