@@ -20,7 +20,9 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 ```python
 luan = {
   "code": [Python, Java, C, HTML, Shell],
-  "tools": [Docker, WSL2, ROS Melodic],
-  "challenge": "I am developing a automatic labelling to radar data with YoloV5, ROS and Python"
+  "personal_setup": [Arch Linux (command line), WSL2, LunarVim, Tmux, ZSH],
+  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Bash],
+  "tools": [Docker, WSL2, ROS Melodic, Git],
+  "challenge": "I am developing a automatic labelling to radar data with ZED2, YoloV5, ROS and Python"
 }
 ```
