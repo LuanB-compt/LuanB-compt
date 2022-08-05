@@ -19,7 +19,7 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 
 ```python
 luan = {
-  "code": [Python, Java, C, HTML, Shell Script],
+  "code": [Python, Java, C, HTML, CSS, Shell Script],
   "personal_setup": [Arch Linux (command line), WSL2, LunarVim, Tmux, ZSH],
   "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Bash],
   "tools": [Docker, WSL2, ROS Melodic, Git],
