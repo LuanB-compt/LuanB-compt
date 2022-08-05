@@ -29,7 +29,7 @@ luan = {
 
 ---------------------------------
 
-- Summary:
+### - Summary:
 <p align="center">
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanB-compt&langs_count=8&theme=cobalt"/>
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=LuanB-compt&hide=prs,issues&theme=tokyonight" />  
