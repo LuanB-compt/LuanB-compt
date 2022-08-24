@@ -20,8 +20,8 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 ```python
 luan = {
   "code": [Python, Java, C, HTML, CSS, Shell Script],
-  "personal_setup": [Arch Linux (command line), WSL2, LunarVim, ASDF Manager, Tmux, ZSH],
-  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Bash],
+  "personal_setup": [Arch Linux (command line), WSL2, LunarVim, ASDF Manager, Tmux, ZSH(Power10k)],
+  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, ZSH(Power10k)],
   "tools": [Docker, WSL2, ROS Melodic, Git, Google Colab, Jupyter Notebook],
   "challenge": "I am developing a automatic labelling to radar data with ZED2, YoloV5, ROS and Python"
 }
