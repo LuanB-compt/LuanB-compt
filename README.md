@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-<img align='right' src="https://github.com/LuanB-compt/README/blob/main/Imagens/Imagem.jpg" width="230">
+<img align='right' src="https://github.com/LuanB-compt/README/blob/main/Imagens/README.jpg" width="230">
 
 <p align="center"><em>Researcher at <a href="https://ipfacens.com.br/brain-2/">BRAIN </a><img src="https://mlogu6g7z5ex.i.optimole.com/1yTVGrE-8JS7uKKK/w:324/h:118/q:mauto/f:avif/https://ipfacens.com.br/wp-content/uploads/2020/06/BRAIN.png" width="35"> (Brazilian Artificial Inteligence Nucleus)
 
