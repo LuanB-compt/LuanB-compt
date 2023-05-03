@@ -17,13 +17,12 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 
 ### <img src="https://c.tenor.com/i_K3zWsgcG8AAAAj/hacker-pepe.gif" width="40"> My knowledge...  
 
-```python
+```js
 luan = {
-  "code": [Python, Java, C, HTML, CSS, Shell Script],
-  "personal_setup": [Arch Linux (command line), WSL2, LunarVim, ASDF Manager, Tmux, ZSH(Power10k)],
-  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, ZSH(Power10k)],
-  "tools": [Docker, WSL2, ROS Melodic, Git, Google Colab, Jupyter Notebook],
-  "challenge": "I am developing a automatic labelling to radar data with ZED2, YoloV5, ROS and Python"
+  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, MongoDB, SQL],
+  "technologies": [Git, Angular, Node.js, Docker, WSL2, ROS Melodic],
+  "personal_setup": [WSL2, Arch Linux (WSL), LunarVim, Tmux, ZSH(Power10k)],
+  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Tmux, ZSH(Power10k)],
 }
 ```
 
