@@ -6,7 +6,7 @@
 
 <p align="center"><em>Researcher at <a href="https://ipfacens.com.br/brain-2/">BRAIN </a><img src="https://mlogu6g7z5ex.i.optimole.com/1yTVGrE-8JS7uKKK/w:324/h:118/q:mauto/f:avif/https://ipfacens.com.br/wp-content/uploads/2020/06/BRAIN.png" width="35"> (Brazilian Artificial Inteligence Nucleus)
 
-Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-aplicada-e-inteligencia-artificial/">MAIA </a><img src="https://mlogu6g7z5ex.i.optimole.com/SKggyqg-n-C2CCk4/w:341/h:334/q:90/https://lince.facens.br/wp-content/uploads/2020/04/logo-maia.png" width="35"> (Mobility and Artificial intelligence Applications) </em></p>
+Capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-aplicada-e-inteligencia-artificial/">MAIA </a><img src="https://mlogu6g7z5ex.i.optimole.com/SKggyqg-n-C2CCk4/w:341/h:334/q:90/https://lince.facens.br/wp-content/uploads/2020/04/logo-maia.png" width="35"> (Mobility and Artificial intelligence Applications) </em></p>
 
 ### <p align="justify">Hi, how are you? I'm 19 years old, I'm fall in love for technology, and I'm studying Computer Engineering. Go to my LinkedIn profile and see my main skills, work experience, and courses I am trained. Also check my [To-do repo](https://github.com/LuanB-compt/to-do) to see my personal projects and ideas that I wiil work, that I'm doing and what I already done. 🤠 </p>
 
@@ -20,7 +20,7 @@ Vice-capitain and Project Leader at <a href="https://lince.facens.br/maia-mobili
 ```js
 luan = {
   "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, MongoDB, SQL],
-  "technologies": [Git, Angular, Node.js, Docker, WSL2, ROS Melodic],
+  "technologies": [Git, Angular, Node.js, Docker, WSL2, ROS Melodic, PyLint],
   "personal_setup": [WSL2, Arch Linux (WSL), LunarVim, Tmux, ZSH(Power10k)],
   "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Tmux, ZSH(Power10k)],
 }
