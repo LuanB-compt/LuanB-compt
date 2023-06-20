@@ -19,10 +19,10 @@ Capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-
 
 ```js
 luan = {
-  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, MongoDB, SQL],
-  "technologies": [Git, Angular, Node.js, Docker, WSL2, ROS Melodic, PyLint],
+  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, SQL],
+  "technologies": [Git, Angular, Node.js, Docker, WSL2, MongoDB, ROS Melodic, PyLint],
   "personal_setup": [WSL2, Arch Linux (WSL), LunarVim, Tmux, ZSH(Power10k)],
-  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Tmux, ZSH(Power10k)],
+  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Tmux, ZSH(Power10k), ROS Melodic],
 }
 ```
 
