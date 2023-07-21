@@ -3,8 +3,7 @@
 ---------------------------------------
 
 <img align='right' src="https://github.com/LuanB-compt/README/blob/main/Imagens/README.jpg" width="230">
-
-<p align="center"><em>Researcher at <a href="https://ipfacens.com.br/brain-2/">BRAIN </a><img src="https://mlogu6g7z5ex.i.optimole.com/1yTVGrE-8JS7uKKK/w:324/h:118/q:mauto/f:avif/https://ipfacens.com.br/wp-content/uploads/2020/06/BRAIN.png" width="35"> (Brazilian Artificial Inteligence Nucleus)
+<p align="center"><em>Developer at <a href="https://www.simoespires.adv.br">Simões Pires Advogados | Tax Technology </a><img src="https://static.wixstatic.com/media/3216b1_35dc5a6574104e56a64a1a6f686d5234~mv2.png/v1/fill/w_334,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3216b1_35dc5a6574104e56a64a1a6f686d5234~mv2.png" width="35"> (Data engineer and software engineer)
 
 Capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-aplicada-e-inteligencia-artificial/">MAIA </a><img src="https://mlogu6g7z5ex.i.optimole.com/SKggyqg-n-C2CCk4/w:341/h:334/q:90/https://lince.facens.br/wp-content/uploads/2020/04/logo-maia.png" width="35"> (Mobility and Artificial intelligence Applications) </em></p>
 
@@ -19,10 +18,12 @@ Capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-
 
 ```js
 luan = {
-  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, SQL],
-  "technologies": [Git, Angular, Node.js, Docker, WSL2, MongoDB, ROS Melodic, PyLint],
+  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, SQL, NoSQL],
+  "technologies": [Git, Angular, Node.js, Docker, WSL2, ROS Melodic, PyLint, Flask, Django],
+  "databases": [SQLite3, MongoDB, MySQL],
+  "architectures": [REST API, Model View Controller],
   "personal_setup": [WSL2, Arch Linux (WSL), LunarVim, Tmux, ZSH(Power10k)],
-  "work_setup": [Ubuntu 18.04 (GNOME), VSCodium, Anaconda, Tmux, ZSH(Power10k), ROS Melodic],
+  "work_setup": [Ubuntu 18.04 (WSL2), VSCodium, Tmux],
 }
 ```
 
