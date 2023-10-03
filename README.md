@@ -18,10 +18,12 @@ Capitain and Project Leader at <a href="https://lince.facens.br/maia-mobilidade-
 
 ```js
 luan = {
-  "code": [Python, Java, C, HTML, CSS, Shell Script, Typescript, SQL, NoSQL],
-  "technologies": [Git, Angular, React Native, Node.js, Docker, WSL2, ROS Melodic, Linters, Flask, Django],
-  "databases": [SQLite3, MongoDB, MySQL, Firebase],
-  "architectures": [REST API, Model View Controller, Monolithic Architecture],
+  "code": [Python, Java, C, Shell Script, Typescript],
+  "database":[MongoDB, SQLite3, MySQL, Firebase],
+  "back-end":[Node.js, Express, Flask, Django],
+  "front-end":[Angular, React Native, HTML, CSS, Javascript],
+  "technologies": [Git, WSL2, ROS Melodic, Docker],
+  "architectures": [REST, Model View Controller, Monolithic Architecture, Clean Architecture],
   "personal_setup": [WSL2, Arch Linux (WSL), LunarVim, Tmux, ZSH(Power10k)],
   "work_setup": [Ubuntu 18.04 (WSL2), VSCodium, Tmux],
 }
