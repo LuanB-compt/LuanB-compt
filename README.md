@@ -29,5 +29,3 @@ luan = {
   "work_setup": [Ubuntu 20.04 (WSL2), VSCode, Powershell, Git Bash, GH CLI, Tmux],
 }
 ```
-
-----------------------------------
